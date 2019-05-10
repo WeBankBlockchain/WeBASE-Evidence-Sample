@@ -161,28 +161,28 @@ logging:
 
 ​    [http://localhost:8086/webase-evidence-sample/swagger-ui.html](http://localhost:8082/webase-transaction/swagger-ui.html)
 
-![1557047809008](.\img\home.png)
+![](./img/home.png)
 
 ### 4.4 存证
 
 ​    输入群组编号，业务流水号，存证hash，存证说明：
 
-![1557047958476](.\img\set1.png)
+![](./img/set1.png)
 
 ​    执行：
 
-![1557048007804](.\img\set2.png)
+![](./img/set2.png)
 
 ​    执行结果（code为0代表正常）：
 
-![1557048033538](.\img\set3.png)
+![](./img/set3.png)
 
 ### 4.5 取证
 
 ​    输入群组编号和业务流水后执行：
 
-![1557048112132](.\img\get1.png)
+![](./img/get1.png)
 
 ​    执行结果（code为0代表正常）：
 
-![1557048170946](.\img\get2.png)
+![](./img/get2.png)
