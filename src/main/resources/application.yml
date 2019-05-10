@@ -1,0 +1,11 @@
+server: 
+  # 本工程端口
+  port: 8086
+  context-path: /webase-evidence-sample
+
+constant: 
+  # 交易服务子系统URL
+  transBaseUrl: http://localhost:8082/webase-transaction/%s
+  
+logging: 
+  config: classpath:log4j2.xml
