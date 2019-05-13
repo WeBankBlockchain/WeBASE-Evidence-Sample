@@ -14,7 +14,6 @@
 
 package com.webank.webase.evidence.sample.service;
 
-import java.util.ArrayList;
 import java.util.List;
 import lombok.Data;
 
@@ -25,7 +24,7 @@ import lombok.Data;
 @Data
 public class TransCallParam {
     private int groupId;
-    private String uuidDeploy;
+    private List<Object> contractAbi;
+    private String contractAddress;
     private String funcName;
-    private List<Object> funcParam = new ArrayList<>();
 }
