@@ -29,6 +29,8 @@ public class ReqSetEvidence {
     private int groupId;
     @NotBlank(message = ConstantCode.UUID_IS_EMPTY)
     private String uuid;
+    private String contractAddress;
+    private String version;
     @NotBlank(message = ConstantCode.HASH_IS_EMPTY)
     private String evidenceHash;
     private String desc;

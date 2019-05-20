@@ -22,11 +22,12 @@ import lombok.Data;
  * 
  */
 @Data
-public class DeployParam {
+public class TransSendParam {
     private int groupId;
-    private String uuidDeploy;
+    private String uuidStateless;
     private int signType;
-    private String contractBin;
     private List<Object> contractAbi;
+    private String contractAddress;
+    private String funcName;
     private List<Object> funcParam;
 }
