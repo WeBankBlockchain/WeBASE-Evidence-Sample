@@ -8,7 +8,7 @@
 
 提前部署交易服务子系统，交易服务子系统部署和说明请查看：
 
-<https://github.com/WeBankFinTech/webase-transcation/tree/dev-0.6>
+<https://github.com/WeBankFinTech/WeBASE-Transaction>
 
 ## 2、合约信息
 
