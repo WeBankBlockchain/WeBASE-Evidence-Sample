@@ -1,5 +1,5 @@
 # 存证案例说明文档
-
+[![Code Lines](https://tokei.rs/b1/github/WeBankFinTech/WeBASE-Evidence-Sample?category=code)](https://github.com/WeBankFinTech/WeBASE-Evidence-Sample)
 [TOC]
 
 ## 1、环境
